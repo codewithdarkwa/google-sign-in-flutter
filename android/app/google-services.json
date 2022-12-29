@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067774015225",
+    "project_id": "sign-in-tutorial-c86bd",
+    "storage_bucket": "sign-in-tutorial-c86bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067774015225:android:5932103439731165965428",
+        "android_client_info": {
+          "package_name": "com.example.google_sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067774015225-v9cat2gnpavstdht994l2m4d3ttmell9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgoZNg0QclGnLgau2FWvxpSn7mgnuUq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067774015225-v9cat2gnpavstdht994l2m4d3ttmell9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
